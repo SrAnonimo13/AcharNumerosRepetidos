@@ -1,0 +1,16 @@
+C:\Users\sosen\Documents\Project\AcharNumerosRepetidosCs\bin\Debug\net5.0\AcharNumerosRepetidosCs.exe
+C:\Users\sosen\Documents\Project\AcharNumerosRepetidosCs\bin\Debug\net5.0\AcharNumerosRepetidosCs.deps.json
+C:\Users\sosen\Documents\Project\AcharNumerosRepetidosCs\bin\Debug\net5.0\AcharNumerosRepetidosCs.runtimeconfig.json
+C:\Users\sosen\Documents\Project\AcharNumerosRepetidosCs\bin\Debug\net5.0\AcharNumerosRepetidosCs.runtimeconfig.dev.json
+C:\Users\sosen\Documents\Project\AcharNumerosRepetidosCs\bin\Debug\net5.0\AcharNumerosRepetidosCs.dll
+C:\Users\sosen\Documents\Project\AcharNumerosRepetidosCs\bin\Debug\net5.0\ref\AcharNumerosRepetidosCs.dll
+C:\Users\sosen\Documents\Project\AcharNumerosRepetidosCs\bin\Debug\net5.0\AcharNumerosRepetidosCs.pdb
+C:\Users\sosen\Documents\Project\AcharNumerosRepetidosCs\obj\Debug\net5.0\AcharNumerosRepetidosCs.csproj.AssemblyReference.cache
+C:\Users\sosen\Documents\Project\AcharNumerosRepetidosCs\obj\Debug\net5.0\AcharNumerosRepetidosCs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sosen\Documents\Project\AcharNumerosRepetidosCs\obj\Debug\net5.0\AcharNumerosRepetidosCs.AssemblyInfoInputs.cache
+C:\Users\sosen\Documents\Project\AcharNumerosRepetidosCs\obj\Debug\net5.0\AcharNumerosRepetidosCs.AssemblyInfo.cs
+C:\Users\sosen\Documents\Project\AcharNumerosRepetidosCs\obj\Debug\net5.0\AcharNumerosRepetidosCs.csproj.CoreCompileInputs.cache
+C:\Users\sosen\Documents\Project\AcharNumerosRepetidosCs\obj\Debug\net5.0\AcharNumerosRepetidosCs.dll
+C:\Users\sosen\Documents\Project\AcharNumerosRepetidosCs\obj\Debug\net5.0\ref\AcharNumerosRepetidosCs.dll
+C:\Users\sosen\Documents\Project\AcharNumerosRepetidosCs\obj\Debug\net5.0\AcharNumerosRepetidosCs.pdb
+C:\Users\sosen\Documents\Project\AcharNumerosRepetidosCs\obj\Debug\net5.0\AcharNumerosRepetidosCs.genruntimeconfig.cache

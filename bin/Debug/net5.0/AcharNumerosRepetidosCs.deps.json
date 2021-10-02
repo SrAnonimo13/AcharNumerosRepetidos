@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AcharNumerosRepetidosCs/1.0.0": {
+        "runtime": {
+          "AcharNumerosRepetidosCs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AcharNumerosRepetidosCs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
